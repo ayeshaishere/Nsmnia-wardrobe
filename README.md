@@ -45,11 +45,8 @@ Welcome to the official repository of **NSMNIA Wardrobe**, an interactive and us
 
 ## 🛠️ Tech Stack (Proposed)
 
-- **Frontend**: HTML5, CSS3, JavaScript, React (optional)
-- **Backend**: Node.js + Express (optional)
-- **Database**: MongoDB / Firebase (optional)
-- **Authentication**: Firebase Auth / JWT (optional)
-- **Deployment**: GitHub Pages / Vercel / Netlify (optional)
+- **Frontend**: HTML5, CSS3,
+
 
 ---
 
