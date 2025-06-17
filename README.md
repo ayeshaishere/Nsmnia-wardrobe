@@ -43,12 +43,7 @@ Welcome to the official repository of **NSMNIA Wardrobe**, an interactive and us
 
 ---
 
-## 🛠️ Tech Stack (Proposed)
+## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3,
-
-
----
-
-## 📁 Folder Structure (Example)
 
